@@ -1,0 +1,25 @@
+{
+    "title": "Legna",
+    "activeNav": "应用导航",
+    "asideTitle": "主站导航",
+    "footer": "Copyright © 2021 By Legna ",
+    "nav": [{
+        "title": "Legna主站",
+        "url": "https://www.brighost.com/",
+        "remark": "这是顶部NavAlert提示"
+    }],
+    "aside": [{
+        "title": "Legna主站",
+        "url": "https://www.brighost.com/",
+        "remark": "这是边栏的Alert提示"
+    }],
+    "tabs": [{
+        "name": "选项卡1",
+        "locked": false,
+        "links": [{
+            "title": "百度",
+            "url": "http://baidu.com",
+            "remark": "这是点击百度的Alert提示"
+        }]
+    }]
+}
